@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MDSCommitteeWS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MDS-Committee-WS-1.0.0.war">
+      <element id="artifact" artifact-name="MDSCommitteeWS:war exploded" />
+    </root>
+  </artifact>
+</component>
